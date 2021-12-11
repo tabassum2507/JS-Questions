@@ -9,3 +9,7 @@ console.log(num2);
 // const largestSwap = (num) => Number(num.toString().split('').reverse().join('')) <= num;
 // const res = largestSwap(89);
 // console.log(res);
+
+// function largestSwap(num) {
+// 	return num.toString().charAt(0) >= num.toString().charAt(1);
+// }
